@@ -4,7 +4,7 @@
 **Öğrenci No:** 24 LITT 040  
 **Ders:** Veri Analizinde Bilgisayar Programlama 2
 
-🔗 **Canlı Rapor:** https://KULLANICI-ADI.github.io/bisiklet-analizi/
+🔗 **Canlı Rapor:** https://mithatmerttozlu.github.io/bisiklet-analizi/
 
 > Yukarıdaki URL'yi GitHub kullanıcı adınla ve depo adınla değiştir (örnek: `https://mithatmert.github.io/bisiklet-analizi/`).
 
