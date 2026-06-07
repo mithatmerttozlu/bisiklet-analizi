@@ -43,7 +43,7 @@ bisiklet-analizi/
 ├── notebook/
 │   └── rapor.ipynb
 ├── docs/
-│   └── index.html        # GitHub Pages bunu yayınlar
+│   └── index.html       
 ├── requirements.txt
 ├── .gitignore
 └── README.md
